@@ -80,6 +80,67 @@ Involvements:  Programming, Planning(technical), Testing, Documentation\
 
 
 
+
+WORK HISTORY\
+Tech Lead 		 	London  		 Jan 2018 - Date\
+GGLink | Marco Polo House, 3-5 Lansdowne Rd, Croydon CR0 2BX\
+Position Summary:\
+I Manage a team of around 30 people in the UK and offshore. My responsibility is 50% coding, 50% managing the team, setting up projects, checking project progress, speaking with clients, cross check the delivery, helping developers amend and update the development pipelines, manage company servers. \
+
+
+
+
+Senior Developer / Project Manager	London  		Jan 2013 - Dec 2017 \
+Guru Graphics Ltd.| Sunset House, Croydon CR0 2AZ\
+Position Summary:\
+80% of time spent preparing project briefs and technical requirements, meeting clients, selecting code base, creating sprint and to-do lists, communicating with clients about project updates, project finishing touch, code reviews, help developers. \
+
+
+PHP Developer				London  		Jan 2012 - Dec 2012\
+Tiga creative.| Unit 3-4 Bowes Business Park, Meopham Green, Kent DA13 0QB\
+Position Summary:\
+Meet client, take their requirements or take requirements from the account manager, code, deploy the code\
+
+
+Support Developer				London		Sep2011 –Dec 2011
+Allsaints.| Unit 6, New Hythe Business Park, Bellingham Way, Larkfield, Aylesford, Kent, ME20 6SQ  
+Position Summary:
+Resolved the issues the tester listed almost all the issues are raised by internal staff or tester, and now and then, new feature requests. 
+
+
+
+Web Developer				London		May 2011 -Sep 2011\
+Tellusfashion Ltd.| 24 Endle St, Covent Garden, London WC2H 9HQ \
+Position Summary:
+I worked as a house developer, and there were a few other developers working externally; my job was to work with the business owner, take his feedback, code the part I was responsible for, and hand over other tasks to external developers. \
+
+Web Developer - Freelancer		London		 Dec 2010 - Mar 2011\
+Kohdao Ltd.| 32, City Business Center, London, SE16 2XB \
+Position Summary:\
+I have worked on various projects based on different PHP frameworks, such as Joomla, wordpress, and drupal, mostly taking feedback from the webmaster and implementing the changes. \
+
+Web Developer - Euro Marine		London		 Dec 2007 - January 2010\
+Euro Marine Ltd.| 26-28 Hammersmith Grove, London W6 7BA \
+Position Summary:\
+I have built a Property management platform from scratch, and My main tasks were to convert sales team ideas into landing pages. \
+
+
+
+
+Web Developer -Kingsland		London		 Dec 2005 - January 2007\
+Kingsland  Ltd.| Shordtich Business center, E9 \
+
+Position Summary:\
+My job was to create a car renting platform for Kingsland car, I was the only developer, and I had to do everything from the front, and back end, server update, database design and management. Once the software was built, they allowed other companies to use it, and I used to set up accounts and train staff on how to use the software. \
+
+
+PERSONAL INTERESTS\
+Football | Cricket (Captain) | Biking \
+
+
+REFERENCES - References are available on request.\
+
+
 Need help ? get in touch 
 
 Thank you\
