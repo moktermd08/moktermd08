@@ -46,35 +46,36 @@ React Js, React Native, Nodejs, Vuejs, Angular Codeigniter, Moodle, Blade, macOS
 30 ( Designer, Developer, Project Manager, Tester, Content Team ) Local Team Members- 9 In-house and 21 Remote team members.
 
 
-CAREER ACHIEVEMENTS
-Playtika.com (Documentation Platform )
-Contribution: Technology selection, Deployment, Development pipeline.  
-Technology Used: React, Nodejs, TypeScript, Docusorus, HTML, CSS,  GIT
-Involvements:  Programming, Planning(technical)
+CAREER ACHIEVEMENTS\
 
-Mitsubishi.com (Electric Europe)
-Contribution: Product search, Product filter, Site search, Third-party APIs integration, File manager, Custom content management system, User Management, worked as project manager for Mitsubishi mobile, Media manager etc.
-Technology Used: PHP, HTML, CSS, Mysql, Jquery, AJAX, smarty, eclipse, TortoiseHg.
-Involvements:  Programming, Planning(technical), Testing, Documentation
+Playtika.com (Documentation Platform )\
+Contribution: Technology selection, Deployment, Development pipeline.  \
+Technology Used: React, Nodejs, TypeScript, Docusorus, HTML, CSS,  GIT\
+Involvements:  Programming, Planning(technical)\
 
-
-RedLabel PLC
-Contribution: Convert Design to interactive Content, D3js, and Third-party APIs integration.
-Technology Used: PHP, HTML, CSS, Mysql, Jquery 
-Involvements:  Programming, Planning(technical), Testing, Documentation
+Mitsubishi.com (Electric Europe)\
+Contribution: Product search, Product filter, Site search, Third-party APIs integration, File manager, Custom content management system, User Management, worked as project manager for Mitsubishi mobile, Media manager etc.\
+Technology Used: PHP, HTML, CSS, Mysql, Jquery, AJAX, smarty, eclipse, TortoiseHg.\
+Involvements:  Programming, Planning(technical), Testing, Documentation\
 
 
+RedLabel PLC\
+Contribution: Convert Design to interactive Content, D3js, and Third-party APIs integration.\
+Technology Used: PHP, HTML, CSS, Mysql, Jquery \
+Involvements:  Programming, Planning(technical), Testing, Documentation\
 
 
-Thetoyshop.com
-Contribution: Product landing pages, Static pages such as store finder, landing pages for brands 
-Technology Used: Php, Html, Css, Mysql, Jquery
-Involvements:  Programming, Planning(technical), Testing
 
-Allsaints.com
-Contribution: Product filter, url rewrite, lookbook, Refund management, Browser related Bugs, User Management, Customer Search etc.  
-Technology Used: Php, Html, Css, Mysql, Jquery, AJAX, Smarty, eclipse, sqlYog, selenium, PHP unit test, subversion.
-Involvements:  Programming, Planning(technical), Testing, Documentation
+
+Thetoyshop.com\
+Contribution: Product landing pages, Static pages such as store finder, landing pages for brands \
+Technology Used: Php, Html, Css, Mysql, Jquery\
+Involvements:  Programming, Planning(technical), Testing\
+
+Allsaints.com\
+Contribution: Product filter, url rewrite, lookbook, Refund management, Browser related Bugs, User Management, Customer Search etc.  \
+Technology Used: Php, Html, Css, Mysql, Jquery, AJAX, Smarty, eclipse, sqlYog, selenium, PHP unit test, subversion.\
+Involvements:  Programming, Planning(technical), Testing, Documentation\
 
 
 
