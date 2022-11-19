@@ -7,7 +7,7 @@ Whilst freelancing, I had the invaluable opportunity of working alongside David 
 
 Prior, I worked for numerous companies such as BBC, Mitsubishi, Allsaints Spitalfield, Red Group plc, and TheToyshop. Although I have seen both the best of web technologies and the worst, working full-time and freelance has taught me some essential lessons in the IT service industry.
 
-My Expertise : 
+💪🏼 My Expertise : 
 1. 🫱 Discussion /Briefing / Client Communication 
 2. ✍️ Project Management 
 3. 🧑🏻‍🏫 Create Technical details
@@ -33,6 +33,9 @@ Database Management, Distributed information systems, Information system enginee
 
 🙋🏻‍♂️ KEY SKILLS\
 I have expert-level knowledge using: HTML, CSS, Javascript, PHP, MySql, Laravel, Wordpress, Drupal, GIT, Linux, WHM,cPanel\
+html5 css3 bootstrap sass tailwind git
+
+javascript react redux mongodb firebase heroku
 
 My intermediate-level knowledge :\
 React Js, React Native, Nodejs, Vuejs, Angular Codeigniter, Moodle, Blade, macOS, Ajax, XML, JSON
