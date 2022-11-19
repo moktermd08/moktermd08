@@ -1,7 +1,7 @@
 👋 Hello there,\
 I studied for my MSc in Software Engineering at Oxford University in 2013 and led the companies' business in London, Bangladesh, India, Ukraine during that time. I was responsible for running the Tech teams consisting of Programmers and Designers.
 
-I have been coding for over 17 years now and love to help online businesses develop and operate more smoothly and efficiently. 
+I have been coding for over 17+ years and love to help online businesses develop and operate more smoothly and efficiently. 
 
 Whilst freelancing, I had the invaluable opportunity of working alongside David Axmark, the Founder of MySQL, which helped my knowledge grow immensely.
 
