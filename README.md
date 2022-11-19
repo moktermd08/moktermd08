@@ -81,7 +81,7 @@ Involvements:  Programming, Planning(technical), Testing, Documentation\
 
 
 
-WORK HISTORY\
+🦹🏻‍♂️ WORK HISTORY\
 Tech Lead 		 	London  		 Jan 2018 - Date\
 GGLink | Marco Polo House, 3-5 Lansdowne Rd, Croydon CR0 2BX\
 Position Summary:\
@@ -135,10 +135,10 @@ My job was to create a car renting platform for Kingsland car, I was the only de
 
 
 PERSONAL INTERESTS\
-Football | Cricket (Captain) | Biking \
+⚽️ Football | 🏏 Cricket (Captain) | 🚴 Biking \
 
 
-REFERENCES - References are available on request.\
+ ✍🏻 REFERENCES - References are available on request.\
 
 
 Need help ? get in touch 
