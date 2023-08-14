@@ -3,31 +3,34 @@
                                                      e: mokter897@gmail.com,  m: - 07311216231
                                                                  Nationality: British 
 
-Personal Profile
+### Personal Profile
 A seasoned software engineer with a master's degree from the University of Oxford, I bring 17+ years of industry experience with a specialisation in team leadership and technical oversight. I've proven my capabilities by successfully leading technology teams across the UK, Bangladesh, and India, delivering strategic solutions and operational efficiency to businesses. Notable collaborations include working with David Axmark, the founder of MySQL. My technical competencies have been honed in various settings including BBC, Mitsubishi, AllSaints Spitalfields, Unilever, Red Group plc, TheToyshop, Playtika, BT, HP, L'Oréal and many more. 
 
 
-Employment History
-Technical Lead | Growth Engineering (e-Learning Platform) | October 2022 - July 2023 As the Technical Lead, I wore multiple hats beyond just conventional software engineering. I steered teams, crafted customer-centric features, and seamlessly navigated the shift from a legacy system to a contemporary framework. I instilled a culture of discipline and perpetual learning, elevating our software methodologies and boosting operational efficacy. I directed the project's transition from an external agency to our internal brigade, simultaneously recruiting and reshaping the team. My duties were twofold: I dedicated half of my time to direct coding, while the other half was invested in team management, mentorship, and leading by example.
+##  Employment History
+### Technical Lead | Growth Engineering (e-Learning Platform) | October 2022 - July 2023 
+As the Technical Lead, I wore multiple hats beyond just conventional software engineering. I steered teams, crafted customer-centric features, and seamlessly navigated the shift from a legacy system to a contemporary framework. I instilled a culture of discipline and perpetual learning, elevating our software methodologies and boosting operational efficacy. I directed the project's transition from an external agency to our internal brigade, simultaneously recruiting and reshaping the team. My duties were twofold: I dedicated half of my time to direct coding, while the other half was invested in team management, mentorship, and leading by example.
 
 
-Tech Stack: PHP, HTML, CSS, JavaScript/TypeScript, React.js, Vue.js, Angular, MySQL, MongoDB, AWS, Docker, GIT, CI/CD Tooling, JIRA, Bitbucket, Cloudflare, Deployment automation, Cloud infrastructure.
+### Tech Stack: 
+PHP, HTML, CSS, JavaScript/TypeScript, React.js, Vue.js, Angular, MySQL, MongoDB, AWS, Docker, GIT, CI/CD Tooling, JIRA, Bitbucket, Cloudflare, Deployment automation, Cloud infrastructure.
 
-Key Responsibilities: Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning, Client Meetings, Engineering teamwork policy development, Creating tasks, Updating existing documents, Sprints for team members Mentoring, Engineering team recruitment, Design cloud-based system architecture, Quotation, helping DevOps team to automate deployment, regularly report progress of dev team to CTO, resource planning. 
+### Key Responsibilities: 
+Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning, Client Meetings, Engineering teamwork policy development, Creating tasks, Updating existing documents, Sprints for team members Mentoring, Engineering team recruitment, Design cloud-based system architecture, Quotation, helping DevOps team to automate deployment, regularly report progress of dev team to CTO, resource planning. 
 
-Key Achievements: 
-Championed the transition to a modern framework from an old codebase, enhancing operational efficiency.
-Advocated for a dual software model: open-source and commercial licensing.
-Enhanced team synergy and prioritized customer-focused delivery.
-Led the adoption of TDD, continuous integration, and DevOps methodologies.
-Streamlined communication between technical experts and business stakeholders.
-Initiated sprint-based development practices.
-Thoroughly documented all project facets, from front end to deployment.
-Document every major aspect of the project and create strict guidelines for the team.
-Implemented a 4-day super sprint for a high-performing team. 
-Implemented a new development stack and automate deployment.
-Implemented template base backend module development, snippet-based frontend, entity and action-based database, pre-defined functional, use case-based testing.    
-Guide the team to implement server-less infrastructure from client-server architecture.
+### Key Achievements: 
+#### Championed the transition to a modern framework from an old codebase, enhancing operational efficiency.
+#### Advocated for a dual software model: open-source and commercial licensing.
+#### Enhanced team synergy and prioritized customer-focused delivery.
+#### Led the adoption of TDD, continuous integration, and DevOps methodologies.
+#### Streamlined communication between technical experts and business stakeholders.
+#### Initiated sprint-based development practices.
+#### Thoroughly documented all project facets, from front end to deployment.
+#### Document every major aspect of the project and create strict guidelines for the team.
+#### Implemented a 4-day super sprint for a high-performing team. 
+#### Implemented a new development stack and automated deployment.
+#### Implemented template base backend module development, snippet-based frontend, entity and action-based database, pre-defined functional, use case-based testing.    
+#### Guide the team to implement server-less infrastructure from client-server architecture.
 
 
 
