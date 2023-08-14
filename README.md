@@ -8,73 +8,61 @@ A seasoned software engineer with a master's degree from the University of Oxfor
 
 
 ##  Employment History
-### Technical Lead | Growth Engineering (e-Learning Platform) | October 2022 - July 2023 
+#### Technical Lead | Growth Engineering (e-Learning Platform) | October 2022 - July 2023 
 As the Technical Lead, I wore multiple hats beyond just conventional software engineering. I steered teams, crafted customer-centric features, and seamlessly navigated the shift from a legacy system to a contemporary framework. I instilled a culture of discipline and perpetual learning, elevating our software methodologies and boosting operational efficacy. I directed the project's transition from an external agency to our internal brigade, simultaneously recruiting and reshaping the team. My duties were twofold: I dedicated half of my time to direct coding, while the other half was invested in team management, mentorship, and leading by example.
 
 
-### Tech Stack: 
+#### Tech Stack: 
 PHP, HTML, CSS, JavaScript/TypeScript, React.js, Vue.js, Angular, MySQL, MongoDB, AWS, Docker, GIT, CI/CD Tooling, JIRA, Bitbucket, Cloudflare, Deployment automation, Cloud infrastructure.
 
-### Key Responsibilities: 
+#### Key Responsibilities: 
 Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning, Client Meetings, Engineering teamwork policy development, Creating tasks, Updating existing documents, Sprints for team members Mentoring, Engineering team recruitment, Design cloud-based system architecture, Quotation, helping DevOps team to automate deployment, regularly report progress of dev team to CTO, resource planning. 
 
-### Key Achievements: 
+#### Key Achievements: 
 - [x] Championed the transition to a modern framework from an old codebase, enhancing operational efficiency.
 - [x] Advocated for a dual software model: open-source and commercial licensing.
 - [x] Enhanced team synergy and prioritized customer-focused delivery.
 - [x] Led the adoption of TDD, continuous integration, and DevOps methodologies.
 - [x] Streamlined communication between technical experts and business stakeholders.
-##### Initiated sprint-based development practices.
-##### Thoroughly documented all project facets, from front end to deployment.
-##### Document every major aspect of the project and create strict guidelines for the team.
-##### Implemented a 4-day super sprint for a high-performing team. 
-##### Implemented a new development stack and automated deployment.
-##### Implemented template base backend module development, snippet-based frontend, entity and action-based database, pre-defined functional, use case-based testing.    
-##### Guide the team to implement serverless infrastructure from client-server architecture.
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x]  Initiated sprint-based development practices.
+- [x] Thoroughly documented all project facets, from front end to deployment.
+- [x] Document every major aspect of the project and create strict guidelines for the team.
+- [x] Implemented a 4-day super sprint for a high-performing team. 
+- [x] Implemented a new development stack and automated deployment.
+- [x] Implemented template base backend module development, snippet-based frontend, entity and action-based database, pre-defined functional, use case-based testing.    
+- [x] Guide the team to implement serverless infrastructure from client-server architecture.
 
 
-
-
-
-CTO | GGLink (Software Development Agency) | Jan 2020 - October 2022
+### CTO | GGLink (Software Development Agency) | Jan 2020 - October 2022
 Technical Lead | GGLink | Jan 2017 - Dec 2020
 Senior Software Engineer | GGLink | Dec 2014 - Dec 2017
 Support Developer | GGLink | Mar 2012 - Dec 2014
 
 During my journey from a Support Developer to the CTO at GGLink, I championed the evolution of nebulous ideas into tangible, streamlined software solutions. I built and fostered a high-calibre web development team that transformed e-learning platforms for UK and Chinese institutions. As Technical Lead, my role transcended mere coding: I led teams, tailored solutions for clients, and masterfully transitioned from a dated to a state-of-the-art codebase. With a focus on discipline and continuous learning, I refined our development practices, enhancing operational efficiency. I expanded our initial 4-person team in London to a dynamic global workforce of over 30. I guided this team to peak performance by instating a structured task and sprint milestone system. Over 11 years, we executed over 40 projects of varying scales with unwavering success. I adeptly managed a mix of in-house teams and global contractors, taking on diverse roles—from coding, mentoring, and leadership to project management and crafting solutions for enterprise systems.
 
-Tech Stack:
+#### Tech Stack:
 PHP, Python, HTML, CSS, JavaScript/TypeScript, React.js, Vue.js, Angular, D3.js, Nodejs, High Chart, MySQL, MongoDB, AWS, GIT, CI/CD Tooling, Docker, JIRA, Bitbucket, Cloudflare, Drupal, WordPress, Symfony, WHM, Cpanel, Cloud infrastructure Build from Scratch, Technical Documentation, Planning, Client meeting. 
 
 
-Key Responsibilities: Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning, System Design, Project Management, Client Meetings, Engineering teamwork policy development, Creating tasks, Sprints for team members Mentoring, Software Engineering team recruitment, Resource planning, Reducing re-coding, preparing premade code base for CRM, Booking system, e-Learning System, Quotation, Team performance analysis and make important decessions. 
+#### Key Responsibilities: 
+Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning, System Design, Project Management, Client Meetings, Engineering teamwork policy development, Creating tasks, Sprints for team members Mentoring, Software Engineering team recruitment, Resource planning, Reducing re-coding, preparing premade code base for CRM, Booking system, e-Learning System, Quotation, Team performance analysis and make important decessions. 
 
-Key Achievements:
-Modernised the codebase, driving software development efficiencies.
-Advocated for a dual-license approach: open-source and commercial.
-Amplified remote team productivity, soaring from 15-20% to over 75%.
-Scaled GGLink from a core team of 4 to a robust unit of 30+ specialists.
-Diversified services to encompass App, Desktop, Browser Extension, Game, and OS development.
-Guided 100+ budding developers, imparting industry best practices.
-Instituted structured planning across hourly to yearly timeframes.
-Set comprehensive project guidelines, spanning from documentation to testing.
-Initiated global expansions with strategic offices in India and Dhaka.
-Contributed to 40+ projects, undertaking diverse roles from coding to leadership.
-Partnered with elite brands such as BBC, DWP, BT, Unilever, HP, and L'Oréal.
-Steered the team in developing proprietary CRM, Booking, e-Commerce, and Healthcare systems, charting our route to technical preeminence.
-Motivated the team to consistently contribute to open-source initiatives.
-Amended the mission and vision of the company to make it a global tech leader
-Reduced re-coding by 85% (frontend, backend, database, testing cases) 
+#### Key Achievements:
+- [x] Modernised the codebase, driving software development efficiencies.
+- [x] Advocated for a dual-license approach: open-source and commercial.
+- [x] Amplified remote team productivity, soaring from 15-20% to over 75%.
+- [x] Scaled GGLink from a core team of 4 to a robust unit of 30+ specialists.
+- [x] Diversified services to encompass App, Desktop, Browser Extension, Game, and OS development.
+- [x] Guided 100+ budding developers, imparting industry best practices.
+- [x] Instituted structured planning across hourly to yearly timeframes.
+- [x] Set comprehensive project guidelines, spanning from documentation to testing.
+- [x] Initiated global expansions with strategic offices in India and Dhaka.
+- [x] Contributed to 40+ projects, undertaking diverse roles from coding to leadership.
+- [x] Partnered with elite brands such as BBC, DWP, BT, Unilever, HP, and L'Oréal.
+- [x] Steered the team in developing proprietary CRM, Booking, e-Commerce, and Healthcare systems, charting our route to technical preeminence.
+- [x] Motivated the team to consistently contribute to open-source initiatives.
+- [x] Amended the mission and vision of the company to make it a global tech leader
+- [x] Reduced re-coding by 85% (frontend, backend, database, testing cases) 
 
 
 
