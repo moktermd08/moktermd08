@@ -1,7 +1,7 @@
-                                                                   Mr Mokter Hossain
-                                                    6 Tavistock Road, CR0 2AN, London,  England 
-                                                     e: mokter897@gmail.com,  m: - 07311216231
-                                                                 Nationality: British 
+                                                       Mr Mokter Hossain
+                                        6 Tavistock Road, CR0 2AN, London,  England 
+                                         e: mokter897@gmail.com,  m: - 07311216231
+                                                     Nationality: British 
 
 ### Personal Profile
 A seasoned software engineer with a master's degree from the University of Oxford, I bring 17+ years of industry experience with a specialisation in team leadership and technical oversight. I've proven my capabilities by successfully leading technology teams across the UK, Bangladesh, and India, delivering strategic solutions and operational efficiency to businesses. Notable collaborations include working with David Axmark, the founder of MySQL. My technical competencies have been honed in various settings including BBC, Mitsubishi, AllSaints Spitalfields, Unilever, Red Group plc, TheToyshop, Playtika, BT, HP, L'Oréal and many more. 
@@ -65,81 +65,86 @@ Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning
 - [x] Reduced re-coding by 85% (frontend, backend, database, testing cases) 
 
 
-
-
-
-
-
-Tiga UK (Software Development Agency)  - Support Developer  (Jan 2012 - Dec 2012 )
+#### Tiga UK (Software Development Agency)  - Support Developer  (Jan 2012 - Dec 2012 )
 Meopham, Kent, United Kingdom 
 At Tiga UK, a leading digital agency, I was responsible for interpreting customer briefs and constructing web applications. Notably, I contributed to the development of the Mitsubishi App.
 
-Tech Stack: Cloud Computing, PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, Node.js, CodeIgniter, Bootstrap, Drupal, WordPress, E-commerce, jQuery, PHP, JavaScript/TypeScript, HTML, MySQL, CSS3, GIT
+#### Tech Stack: 
+Cloud Computing, PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, Node.js, CodeIgniter, Bootstrap, Drupal, WordPress, E-commerce, jQuery, PHP, JavaScript/TypeScript, HTML, MySQL, CSS3, GIT
 
-Key Responsibilities: Coding, Code cleaning,  Debugging, Client Meetings, and Development Time estimation. 
+#### Key Responsibilities: 
+Coding, Code cleaning,  Debugging, Client Meetings, and Development Time estimation. 
 
-
-
-AllSaints Spitalfields Ltd (e-Commerce )- Support Developer (Sep 2011 - Dec 2011)
+#### AllSaints Spitalfields Ltd (e-Commerce )- Support Developer (Sep 2011 - Dec 2011)
 Maidstone, Kent, United Kingdom
 Serving one of the UK's largest clothing retailers, I worked to enhance the online customer journey — from product display and purchase to order tracking, delivery, and returns.
 
-Tech Stack: HTML5, Cloud Computing, PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, Node.js, CodeIgniter, Bootstrap, WordPress, Agile Methodologies, jQuery, CMS, PHP, JavaScript, HTML, MySQL, SQL, CSS3.
+#### Tech Stack: 
+HTML5, Cloud Computing, PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, Node.js, CodeIgniter, Bootstrap, WordPress, Agile Methodologies, jQuery, CMS, PHP, JavaScript, HTML, MySQL, SQL, CSS3.
 
-Key Responsibilities: Coding, Code cleaning,  Debugging, Client Meetings, and Development Time estimation. 
+#### Key Responsibilities: 
+Coding, Code cleaning,  Debugging, Client Meetings, and Development Time estimation. 
 
-TellusFashion (fashion designer marketplace) - Web Developer (Mar 2011 - Sep 2011)
+#### TellusFashion (fashion designer marketplace) - Web Developer (Mar 2011 - Sep 2011)
 London, United Kingdom
 I was instrumental in developing a B2C software solution catering to various industries, including real estate, finance, and management.
 
-Tech Stack: HTML5, Cloud Computing, PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, Node.js, CodeIgniter, Bootstrap, Drupal, WordPress, E-commerce, jQuery, CMS, PHP, JavaScript, HTML, MySQL, SQL, CSS3.
+#### Tech Stack: 
+HTML5, Cloud Computing, PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, Node.js, CodeIgniter, Bootstrap, Drupal, WordPress, E-commerce, jQuery, CMS, PHP, JavaScript, HTML, MySQL, SQL, CSS3.
 
-Key Responsibilities: Coding, Code cleaning,  Debugging, Development Time estimation, Review of external developer codes, and Technical planning. 
+#### Key Responsibilities: 
+Coding, Code cleaning,  Debugging, Development Time estimation, Review of external developer codes, and Technical planning. 
 
 
-Kohdao Ltd (Money Magazine) - Web Developer (Dec 2010 - Mar 2011 )
+#### Kohdao Ltd (Money Magazine) - Web Developer (Dec 2010 - Mar 2011 )
 London, United Kingdom
 Collaborating closely with a team, I played a pivotal role in both front and back-end development for the company's digital presence.
 
-Tech Stack: PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, CodeIgniter, Bootstrap, Drupal, WordPress, E-commerce, jQuery, PHP, JavaScript, HTML, MySQL, CSS3.
+#### Tech Stack: 
+PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, CodeIgniter, Bootstrap, Drupal, WordPress, E-commerce, jQuery, PHP, JavaScript, HTML, MySQL, CSS3.
 
-Key Responsibilities: Coding, Code cleaning,  Debugging, Client Meetings, and Development Time estimation. 
+#### Key Responsibilities: 
+Coding, Code cleaning,  Debugging, Client Meetings, and Development Time estimation. 
 
-Euromarine (Property Investment Platform) - PHP Developer ( Jan 2008 - Dec 2010 )
+#### Euromarine (Property Investment Platform) - PHP Developer ( Jan 2008 - Dec 2010 )
 London, United Kingdom
 I single-handedly developed a property management platform from the ground up. Part of my role involved transforming sales team concepts into captivating landing pages, notably for high-profile events like Billionaire Village, and effectively capturing leads.
 
-Tech Stack: PHP Applications, Front-End Development, Web Application Development, Back-End Development, REST APIs, WordPress, PHP, HTML, MySQL.
+#### Tech Stack: 
+PHP Applications, Front-End Development, Web Application Development, Back-End Development, REST APIs, WordPress, PHP, HTML, MySQL.
 
-Key Responsibilities: Coding, Code cleaning,  Debugging, Client Meetings, and Development Time estimation. 
+#### Key Responsibilities: 
+Coding, Code cleaning,  Debugging, Client Meetings, and Development Time estimation. 
 
-FuTech Limited (Web Development Company) - Web Developer (Jan 2005 - Dec 2008)
+#### FuTech Limited (Web Development Company) - Web Developer (Jan 2005 - Dec 2008)
 London, United Kingdom
 I was entrusted with the entire development of a car-renting platform for Kingsland Car. My responsibilities spanned the spectrum of software development, from frontend to backend, server maintenance, and database architecture. Post-launch, I onboarded and trained staff from other companies to use our software.
 
-Tech Stack: PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, CodeIgniter, Drupal, WordPress, jQuery, PHP, JavaScript, HTML, MySQL, CSS3.
+#### Tech Stack: 
+PHP Applications, Front-End & Back-End Development, Linux, Web Services API, SDLC, Git, REST APIs, CodeIgniter, Drupal, WordPress, jQuery, PHP, JavaScript, HTML, MySQL, CSS3.
 
-Key Responsibilities: Coding, Code cleaning,  Debugging, Client Meetings, Development Time estimation, Planning, Manage Windows server, regularly running security scans, updating server and software versions.
+#### Key Responsibilities: 
+Coding, Code cleaning,  Debugging, Client Meetings, Development Time estimation, Planning, Manage Windows server, regularly running security scans, updating server and software versions.
 
 
 
 
 
-Education
-MSc in Software Engineering | the University of Oxford 
+##  Education
+#### MSc in Software Engineering | the University of Oxford 
 Subjects: Database Management, Semantic Technologies STC, Service Oriented Architecture SOA, Mobile Systems Security MSS, Software Development Management SDM, Cloud Security CLS, Design for Security DES.
 
-BSc (Hons) Computer Science | University of Greenwich 
+#### BSc (Hons) Computer Science | University of Greenwich 
 Subjects: Database Management, Distributed information systems, Information system engineering, E-Commerce, Information Technology Project and Quality Management, Mobile Computing.
 
 
-Key Skills Expertise: 
+##  Key Skills Expertise: 
 HTML, CSS, Javascript, TypeScript, React js, Vue.js, Angular js, Nodejs, PHP, MySQL, RESTful API, JSON, GIT, Docker, Linux, AWS, Leadership, Mentoring, Cloud infrastructure, System Design, System Architecture. 
 
-Proficient: 
+##  Proficient: 
 React Native, JIRA, AWS, AZURE, MongoDB, GraphSQL, Digital Ocean, Codeigniter, Laravel, Wordpress, Drupal, Moodle, Blade, macOS, Ajax, XML, WHM,cPanel, Google Cloud.
 
-Personal Interests 
+##  Personal Interests 
 Football, Cricket, Biking, River Cruising.
 
 References 
