@@ -19,18 +19,18 @@ PHP, HTML, CSS, JavaScript/TypeScript, React.js, Vue.js, Angular, MySQL, MongoDB
 Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning, Client Meetings, Engineering teamwork policy development, Creating tasks, Updating existing documents, Sprints for team members Mentoring, Engineering team recruitment, Design cloud-based system architecture, Quotation, helping DevOps team to automate deployment, regularly report progress of dev team to CTO, resource planning. 
 
 ### Key Achievements: 
-#### Championed the transition to a modern framework from an old codebase, enhancing operational efficiency.
-#### Advocated for a dual software model: open-source and commercial licensing.
-#### Enhanced team synergy and prioritized customer-focused delivery.
-#### Led the adoption of TDD, continuous integration, and DevOps methodologies.
-#### Streamlined communication between technical experts and business stakeholders.
-#### Initiated sprint-based development practices.
-#### Thoroughly documented all project facets, from front end to deployment.
-#### Document every major aspect of the project and create strict guidelines for the team.
-#### Implemented a 4-day super sprint for a high-performing team. 
-#### Implemented a new development stack and automated deployment.
-#### Implemented template base backend module development, snippet-based frontend, entity and action-based database, pre-defined functional, use case-based testing.    
-#### Guide the team to implement server-less infrastructure from client-server architecture.
+##### Championed the transition to a modern framework from an old codebase, enhancing operational efficiency.
+##### Advocated for a dual software model: open-source and commercial licensing.
+##### Enhanced team synergy and prioritized customer-focused delivery.
+##### Led the adoption of TDD, continuous integration, and DevOps methodologies.
+##### Streamlined communication between technical experts and business stakeholders.
+##### Initiated sprint-based development practices.
+##### Thoroughly documented all project facets, from front end to deployment.
+##### Document every major aspect of the project and create strict guidelines for the team.
+##### Implemented a 4-day super sprint for a high-performing team. 
+##### Implemented a new development stack and automated deployment.
+##### Implemented template base backend module development, snippet-based frontend, entity and action-based database, pre-defined functional, use case-based testing.    
+##### Guide the team to implement serverless infrastructure from client-server architecture.
 
 
 
