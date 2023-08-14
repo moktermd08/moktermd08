@@ -32,6 +32,16 @@ Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning
 ##### Implemented template base backend module development, snippet-based frontend, entity and action-based database, pre-defined functional, use case-based testing.    
 ##### Guide the team to implement serverless infrastructure from client-server architecture.
 
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 
 
 
