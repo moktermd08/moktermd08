@@ -1,3 +1,7 @@
+                                                  Mr Mokter Hossain
+                                     e: mokter897@gmail.com,  m: - 07311216231
+                                                 Nationality: British
+                                                 
 ### Personal Profile
 A seasoned software engineer with a master's degree from the University of Oxford, I bring 17+ years of industry experience with a specialisation in team leadership and technical oversight. I've proven my capabilities by successfully leading technology teams across the UK, Bangladesh, and India, delivering strategic solutions and operational efficiency to businesses. Notable collaborations include working with David Axmark, the founder of MySQL. My technical competencies have been honed in various settings including BBC, Mitsubishi, AllSaints Spitalfields, Unilever, Red Group plc, TheToyshop, Playtika, BT, HP, L'Oréal and many more. 
 
