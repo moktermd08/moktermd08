@@ -4,7 +4,24 @@
 A seasoned software engineer with a master's degree from the University of Oxford, I bring 17+ years of industry experience with a specialisation in team leadership and technical oversight. I've proven my capabilities by successfully leading technology teams across the UK, Bangladesh, and India, delivering strategic solutions and operational efficiency to businesses. Notable collaborations include working with David Axmark, the founder of MySQL. My technical competencies have been honed in various settings including BBC, Mitsubishi, AllSaints Spitalfields, Unilever, Red Group plc, TheToyshop, Playtika, BT, HP, L'Oréal and many more. 
 
 
+
 ##  Employment History
+#### Lead Developer | Angus Montgomery Arts (Custom CRM Development) | October 2022 - 30th September 2023 (Contract )
+In this pivotal role at Angus Montgomery Arts, I spearheaded the development of a custom CRM, a complex project that required a sophisticated understanding of modern software engineering practices. As the Lead Developer, I was not just the key technical expert but also a project manager, guiding the team towards efficient and effective solutions while coordinating with both internal teams and external clients.
+
+A major part of my role involved the seamless integration of third-party APIs, such as Insightly and QuickBooks, into our custom CRM. I took ownership of the end-to-end process, from requirements analysis and technical specifications to deployment and continuous improvement.
+
+I committed a portion of my time to hands-on coding, while the remainder was focused on team leadership, code reviews, client interactions, and strategy, ensuring alignment between the technical solutions we were creating and the overarching goals of the business.
+
+#### Key Responsibilities: 
+Requirement Analysis, Technical Specification Creation, Coding, Testing and debugging, Deployment & CI/CD Development, Server Setup and automation, Client Meetings and communication, Inviting and Managing Users,
+API Integration (Insightly, Quickbook), Team Leadership and mentorship, Resource Planning, Regular Progress Reporting to Senior managers
+
+#### Tech Stack: 
+React.js, Redux, NextJs, GraphSQL, Node.js, Python, AWS Lambda, RestfulAPI, HTML, CSS, JavaScript, Linux, Docker, Git, TDD, Microservices, Serverless Application Design.
+
+
+
 #### Technical Lead | Growth Engineering (e-Learning Platform) | October 2022 - July 2023 
 As the Technical Lead, I wore multiple hats beyond just conventional software engineering. I steered teams, crafted customer-centric features, and seamlessly navigated the shift from a legacy system to a contemporary framework. I instilled a culture of discipline and perpetual learning, elevating our software methodologies and boosting operational efficacy. I directed the project's transition from an external agency to our internal brigade, simultaneously recruiting and reshaping the team. My duties were twofold: I dedicated half of my time to direct coding, while the other half was invested in team management, mentorship, and leading by example.
 
