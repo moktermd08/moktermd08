@@ -6,7 +6,7 @@ A seasoned software engineer with a master's degree from the University of Oxfor
 
 
 ##  Employment History
-#### Lead Developer | Angus Montgomery Arts (Custom CRM Development) | October 2022 - (Contract )
+#### Lead Developer | Angus Montgomery Arts (Custom CRM Development) | July 2023 - (Contract )
 In this pivotal role at Angus Montgomery Arts, I spearheaded the development of a custom CRM, a complex project that required a sophisticated understanding of modern software engineering practices. As the Lead Developer, I was not just the key technical expert but also a project manager, guiding the team towards efficient and effective solutions while coordinating with both internal teams and external clients.
 
 A major part of my role involved the seamless integration of third-party APIs, such as Insightly and QuickBooks, into our custom CRM. I took ownership of the end-to-end process, from requirements analysis and technical specifications to deployment and continuous improvement.
