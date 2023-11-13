@@ -6,7 +6,7 @@ A seasoned software engineer with a master's degree from the University of Oxfor
 
 
 ##  Employment History
-#### Lead Developer | Angus Montgomery Arts (Custom CRM Development) | July 2023 - (Contract )
+#### Lead Developer | Angus Montgomery Arts (Custom CRM Development) | October 2022 - (Contract )
 In this pivotal role at Angus Montgomery Arts, I spearheaded the development of a custom CRM, a complex project that required a sophisticated understanding of modern software engineering practices. As the Lead Developer, I was not just the key technical expert but also a project manager, guiding the team towards efficient and effective solutions while coordinating with both internal teams and external clients.
 
 A major part of my role involved the seamless integration of third-party APIs, such as Insightly and QuickBooks, into our custom CRM. I took ownership of the end-to-end process, from requirements analysis and technical specifications to deployment and continuous improvement.
@@ -19,32 +19,6 @@ API Integration (Insightly, Quickbook), Team Leadership and mentorship, Resource
 
 #### Tech Stack: 
 React.js, Redux, NextJs, GraphSQL, Node.js, Python, AWS Lambda, RestfulAPI, HTML, CSS, JavaScript, Linux, Docker, Git, TDD, Microservices, Serverless Application Design.
-
-
-
-#### Technical Lead | Growth Engineering (e-Learning Platform) | October 2022 - July 2023 
-As the Technical Lead, I wore multiple hats beyond just conventional software engineering. I steered teams, crafted customer-centric features, and seamlessly navigated the shift from a legacy system to a contemporary framework. I instilled a culture of discipline and perpetual learning, elevating our software methodologies and boosting operational efficacy. I directed the project's transition from an external agency to our internal brigade, simultaneously recruiting and reshaping the team. My duties were twofold: I dedicated half of my time to direct coding, while the other half was invested in team management, mentorship, and leading by example.
-
-
-#### Tech Stack: 
-PHP, HTML, CSS, JavaScript/TypeScript, React.js, Vue.js, Angular, MySQL, MongoDB, AWS, Docker, GIT, CI/CD Tooling, JIRA, Bitbucket, Cloudflare, Deployment automation, Cloud infrastructure.
-
-#### Key Responsibilities: 
-Coding, Code cleaning, Code review, Debugging, Technical Documentation, Planning, Client Meetings, Engineering teamwork policy development, Creating tasks, Updating existing documents, Sprints for team members Mentoring, Engineering team recruitment, Design cloud-based system architecture, Quotation, helping DevOps team to automate deployment, regularly report progress of dev team to CTO, resource planning. 
-
-#### Key Achievements: 
-- [x] Championed the transition to a modern framework from an old codebase, enhancing operational efficiency.
-- [x] Advocated for a dual software model: open-source and commercial licensing.
-- [x] Enhanced team synergy and prioritized customer-focused delivery.
-- [x] Led the adoption of TDD, continuous integration, and DevOps methodologies.
-- [x] Streamlined communication between technical experts and business stakeholders.
-- [x]  Initiated sprint-based development practices.
-- [x] Thoroughly documented all project facets, from front end to deployment.
-- [x] Document every major aspect of the project and create strict guidelines for the team.
-- [x] Implemented a 4-day super sprint for a high-performing team. 
-- [x] Implemented a new development stack and automated deployment.
-- [x] Implemented template base backend module development, snippet-based frontend, entity and action-based database, pre-defined functional, use case-based testing.    
-- [x] Guide the team to implement serverless infrastructure from client-server architecture.
 
 
 ### CTO | GGLink (Software Development Agency) | Jan 2020 - October 2022
