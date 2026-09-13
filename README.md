@@ -4,7 +4,7 @@
 
 ### I build AI-powered products that replace broken manual workflows with systems that actually scale.
 
-**[🚀 Work with Moksy AI](https://moksy.ai)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/moktermd08)** &nbsp;·&nbsp; **[📬 Let's talk](mailto:mo@moksy.ai)**
+**[🚀 Work with Moksy AI](https://moksy.ai)**  ·  **[💼 LinkedIn](https://linkedin.com/in/moktermd08)**  ·  **[📬 Let's talk](mailto:mo@moksy.ai)**
 
 ---
 
@@ -49,7 +49,7 @@ Built and delivered production systems for:
 
 <div align="center">
 
-`BBC` &nbsp;&nbsp; `BT` &nbsp;&nbsp; `Unilever` &nbsp;&nbsp; `HP` &nbsp;&nbsp; `L'Oréal` &nbsp;&nbsp; `Mitsubishi` &nbsp;&nbsp; `AllSaints` &nbsp;&nbsp; `Playtika` &nbsp;&nbsp; `DWP`
+`BBC`    `BT`    `Unilever`    `HP`    `L'Oréal`    `Mitsubishi`    `AllSaints`    `Playtika`    `DWP`
 
 </div>
 
@@ -83,13 +83,13 @@ Built and delivered production systems for:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-![Mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=moktermd08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moktermd08&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moktermd08&layout=compact&theme=tokyonight&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=moktermd08&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -110,7 +110,7 @@ If you need to:
 - Audit your stack for AI opportunities
 - Bring in an experienced engineering leader
 
-**→ [moksy.ai](https://moksy.ai)** &nbsp;|&nbsp; **→ [LinkedIn](https://linkedin.com/in/moktermd08)**
+**→ [moksy.ai](https://moksy.ai)**  |  **→ [LinkedIn](https://linkedin.com/in/moktermd08)**
 
 ---
 
