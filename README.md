@@ -19,11 +19,11 @@
 
 ## 🧠 What I actually do
 
-I'm Mo — The founder of **[Moksy AI](https://moksy.ai)**, a studio building intelligent automation systems for businesses that are tired of doing things manually.
+I'm **Mo** — founder of **[Moksy AI](https://moksy.ai)**, a studio building intelligent automation systems for businesses that are tired of doing things manually.
 
-22+ years in the industry. Oxford MSc. Former CTO of a 40-person global studio. I've shipped production systems for the BBC, BT, Unilever, HP, L'Oréal, Mitsubishi, and many more. I once debugged code with **David Axmark**, the man who built MySQL.
+22+ years in the industry. Oxford MSc. Former CTO of a 40-person global studio. I've shipped production systems for the BBC, BT, Unilever, HP, L'Oréal, Mitsubishi, and more. I once debugged code with **David Axmark**, the man who built MySQL.
 
-Now I spend my time building AI agents, workflow automation, and bespoke AI products — and helping companies turn their biggest operational headaches into solved problems.
+I build AI agents, workflow automation, and bespoke AI products — turning operational headaches into solved problems.
 
 ---
 
@@ -39,21 +39,21 @@ Now I spend my time building AI agents, workflow automation, and bespoke AI prod
 | 📊 **AI Audit & Strategy** | We review your stack and show you exactly where AI saves you money |
 | 🔌 **AI Integration** | Drop AI into your existing systems without rewriting everything |
 
-**👉 [Book a free discovery call at moksy.ai](https://moksy.ai)**
+**👉 [Book a free discovery call → moksy.ai](https://moksy.ai)**
 
 ---
 
-## 🏆 Social proof
+## 🏆 Clients & collaborators
 
-Delivered production systems for:
+Built and delivered production systems for:
 
 <div align="center">
 
-`BBC` &nbsp; `BT` &nbsp; `Unilever` &nbsp; `HP` &nbsp; `L'Oréal` &nbsp; `Mitsubishi` &nbsp; `AllSaints` &nbsp; `Playtika` &nbsp; `DWP` &nbsp; `UK Public Sector`
+`BBC` &nbsp;&nbsp; `BT` &nbsp;&nbsp; `Unilever` &nbsp;&nbsp; `HP` &nbsp;&nbsp; `L'Oréal` &nbsp;&nbsp; `Mitsubishi` &nbsp;&nbsp; `AllSaints` &nbsp;&nbsp; `Playtika` &nbsp;&nbsp; `DWP`
 
 </div>
 
-> *"Collaborated with David Axmark, co-founder of MySQL"*
+> *Collaborated with David Axmark, co-founder of MySQL*
 
 ---
 
@@ -91,28 +91,26 @@ Delivered production systems for:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moktermd08&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moktermd08&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
 
 ## 📌 Currently
 
-- 🚀 **Founder, Moksy AI** — AI automation studio taking on select clients
-- 🌍 **Open to**: AI consulting engagements, fractional CTO roles, advisory positions, and strategic AI partnerships
+- 🚀 **Founder, Moksy AI** — AI automation studio, taking on select clients
+- 🌍 **Open to**: AI consulting, fractional CTO roles, advisory, and strategic AI partnerships
 
 ---
 
 ## 🤝 Let's work together
 
-If you're looking to:
+If you need to:
 - Automate a process that's eating your team's time
-- Build an AI product from scratch
-- Audit your tech stack for AI opportunities
-- Hire an engineering leader who's done it before
+- Build an AI product from the ground up
+- Audit your stack for AI opportunities
+- Bring in an experienced engineering leader
 
-**→ [moksy.ai](https://moksy.ai)** &nbsp;|&nbsp; **→ [LinkedIn: moktermd08](https://linkedin.com/in/moktermd08)**
+**→ [moksy.ai](https://moksy.ai)** &nbsp;|&nbsp; **→ [LinkedIn](https://linkedin.com/in/moktermd08)**
 
 ---
 
